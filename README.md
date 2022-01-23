@@ -7,7 +7,7 @@ This is a very simple program which prints out the content of a in a human reada
 Installation: For Win32 64bit I provide a pre built .exe in the build directory.
 
 For Linux or Mac, you have to build it yourself:
-The 2 header files are stored in the incl. subdirectory and referenced in the code as relative paths.
+The 2 header files are stored in the incl subdirectory and referenced in the code as relative paths.
 The main.c is located in src.
 
 You can compile it with probably most c compilers.
