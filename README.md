@@ -13,11 +13,11 @@ The main.c is located in src.
 You can compile it with probably most c compilers.
 I used GCC. 
 
-Download the repository
-Extract the .zip file at your desired location
-Navigate to the src folder in your command line and run:
-gcc -o c-midi main.c
-Your executable will be located in the src folder.
+- Download the repository
+- Extract the .zip file at your desired location
+- Navigate to the src folder in your command line and run:
+- gcc -o c-midi main.c
+- Your executable will be located in the src folder.
 
 Usage:
 
