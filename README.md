@@ -4,9 +4,9 @@
 
 This is a very simple program which prints out the content of a in a human readable format on the console.
 
-Installation: For Win32 64bit I provide a pre built .exe
+Installation: For Win32 64bit I provide a pre built .exe in the build directory
 
-Fou Linux or Mac, you have to build it yourself:
+For Linux or Mac, you have to build it yourself:
 The 2 header files are stored in the incl. subdirectory and referenced in the code as relative paths.
 The main.c is located in src.
 
