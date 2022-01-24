@@ -22,6 +22,6 @@ I used GCC.
 Usage:
 
 - this program takes one and only one argument which ist the path to your MIDI-File.
-- cmidi [path to .mid file]
+- c-midi [-path to .mid file]
 
 Since this is very much a work in progress, I wouldn't recommend you to use this for any serious application or product.
