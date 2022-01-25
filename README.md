@@ -3,6 +3,7 @@
 # Midi Parser in C
 
 This is a very simple program which prints out the content of a in a human readable format on the console.
+[Check out my webpage for more information](https://www.cma5.de/#projects)
 
 Installation: For Windows 64bit I provide a pre built .exe in the build directory.
 
